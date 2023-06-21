@@ -52,11 +52,11 @@ async function run() {
     // Connect the client to the server	(optional starting in v4.7)
     // await client.connect();
 
-    const usersCollection = client.db("bistroDb").collection("users");
-    const menuCollection = client.db("bistroDb").collection("menu");
-    const reviewCollection = client.db("bistroDb").collection("reviews");
-    const cartCollection = client.db("bistroDb").collection("carts");
-    const paymentCollection = client.db("bistroDb").collection("payments");
+    // const usersCollection = client.db("bistroDb").collection("users");
+    // const menuCollection = client.db("bistroDb").collection("menu");
+    // const reviewCollection = client.db("bistroDb").collection("reviews");
+    // const cartCollection = client.db("bistroDb").collection("carts");
+    // const paymentCollection = client.db("bistroDb").collection("payments");
 
     // Token Verify
 
